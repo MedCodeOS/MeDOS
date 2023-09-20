@@ -2,7 +2,7 @@
 MeDOS is a basic OS made for basic uses!
 
 -------------------------------------------------------------
-THIS PROJECT HAS BEEN MADE WITH C#
+THIS PROJECT HAS BEEN MADE WITH C# / COSMOS SDK
 --------------------------------------------------------
 For default **LOGIN**:
 --username : MeDOS
