@@ -9,7 +9,7 @@ For default **LOGIN**:
 --password : MeDOS <br />
 -----------------------------------------------------------
 Note : <br />
-******** No Login Feature Is Availble, So Register Option Not Accessible yet!! ********
+******** No Login Feature Is Availble, So Register Option Not Accessible yet!
 ----------------------------------------
 <h1> Commands: </h1>  <br />
 -time: Get current time (h;m;s) <br />
