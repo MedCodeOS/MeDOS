@@ -11,7 +11,7 @@ For default **LOGIN**:
 Note : <br />
 ******** No Login Feature Is Availble, So Register Option Not Accessible yet!! ********
 ----------------------------------------
-<h1Commands:></h1>  <br />
+<h1> Commands: </h1>  <br />
 -time: Get current time (h;m;s) <br />
 -sh: Shut down the Pc <br />
 -clear: Clear the console <br />
